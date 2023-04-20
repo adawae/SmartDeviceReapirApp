@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633922968713",
+    "project_id": "smart-devices-repair-app",
+    "storage_bucket": "smart-devices-repair-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633922968713:android:58f34052d8c60e9893fa58",
+        "android_client_info": {
+          "package_name": "com.example.smartdevicesrepairapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633922968713-9bt352l2bll042dd5lvvli5t324ebn1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQwSGpnezB7g5GXvtxjD0KpL8AuDDjZfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633922968713-9bt352l2bll042dd5lvvli5t324ebn1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

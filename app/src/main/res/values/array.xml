@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="typeOfComplaint">
+        <item>Hardware Repair</item>
+        <item>Software Repair</item>
+    </string-array>
+
+</resources>
